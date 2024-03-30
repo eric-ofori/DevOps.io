@@ -10,7 +10,7 @@
 
 - Create your root password
 
-![Step 1b screenshot](/AWS_Account/Images/SignUp_for_AWS_Step_1b.png)
+![Step 1a screenshot](/AWS_Account/Images/SignUp_for_AWS_Step_1b.png)
 
 ### Step 2 ###
 
