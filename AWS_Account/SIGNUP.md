@@ -2,7 +2,7 @@
 
 ### Step 1 ###
 
-- Enter your email address and account name from the sign up page [click her](https://aws.com)
+- Enter your email address and account name from the sign up page [click here](https://aws.com)
 
 - Verify your email address
 
