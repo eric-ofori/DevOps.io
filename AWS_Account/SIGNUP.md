@@ -20,11 +20,15 @@
 
 - Enter your phone number
 
+![Step 1b screenshot](/AWS_Account/Images/SignUp_for_AWS_Step_2.png)
+
 ### Step 3 ###
 
 - Enter billing information details
 
 - Verify your information and continue
+
+![Step 1b screenshot](/AWS_Account/Images/SignUp_for_AWS_Step_3.png)
 
 ### Step 4 ###
 
@@ -32,8 +36,12 @@
 
 - Verifying either by SMS or voice call and entering the code as required and then continue
 
+![Step 1b screenshot](/AWS_Account/Images/SignUp_for_AWS_Step_4.png)
+
 ### Step 5 ###
 
 - Here you select a support plan. Choose the basic support since that is free unless you don't want the free or basic support plan.
 
 - Choose complete sign up to finish creating your account
+
+![Step 1b screenshot](/AWS_Account/Images/SignUp_for_AWS_Step_5.png)
