@@ -20,7 +20,7 @@
 
 - Enter billing information details
 
-- Verifgy your information and continue
+- Verify your information and continue
 
 ### Step 4 ###
 
