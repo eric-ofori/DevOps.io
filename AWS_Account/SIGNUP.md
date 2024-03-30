@@ -8,7 +8,7 @@
 
 - Create your root password
 
-![Step 1a screenshot](Images/SignUp_for_AWS_Step 1a.png)
+![Step 1a screenshot](DevOps.io/AWS_Account/Images/SignUp_for_AWS_Step 1a.png)
 
 ### Step 2 ###
 
