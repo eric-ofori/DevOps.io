@@ -14,7 +14,7 @@
 
 - Choose between whether you setting up a business or personal account
 
-- Your phone number
+- Enter your phone number
 
 ### Step 3 ###
 
