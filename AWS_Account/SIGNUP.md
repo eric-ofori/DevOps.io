@@ -8,6 +8,8 @@
 
 - Create your root password
 
+![Step 1a screenshot](AWS_Account/Images)
+
 ### Step 2 ###
 
 **Add contact information including the following:**
