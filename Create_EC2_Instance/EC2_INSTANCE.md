@@ -8,7 +8,7 @@
 
 - On the top left of your console, select services and search for Elastic Compute Cloud (EC2)
 
-![EC2 DASHBOARD]((/AWS_Account/Images/EC2_DASHBOARD.png)
+![EC2 DASHBOARD](/AWS_Account/Images/EC2_DASHBOARD.png)
 
 - From the menu on the left side, select instances.
 
