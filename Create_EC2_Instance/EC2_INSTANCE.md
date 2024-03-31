@@ -1,4 +1,4 @@
-# Steps to take to create an Ubuntu Amazon EC2 instance
+# Creating and launching an Ubuntu Amazon EC2 instance
 
 ### Step 1: Sign into your AWS account
 
