@@ -59,7 +59,7 @@ ssh -i "key-pair" ubuntu@instance_id
 
 ![INSTANCE_LOGIN](/Create_EC2_Instance/Images/INSTANCE_LOGIN.png)
 
-## Installing, Updating and Removing Software
+# Installing, Updating and Removing Software
 
 ### Updating Package Lists
 
@@ -68,6 +68,8 @@ ssh -i "key-pair" ubuntu@instance_id
 ```
 sudo apt update
 ```
+
+![UPDATE_PCK_LIST](/Create_EC2_Instance/Images/UPDATE_PCK_LIST.png)
 
 ### Installing software packages
 
@@ -79,6 +81,15 @@ sudo apt update
 sudo apt install tree
 ```
 
+![TREE](/Create_EC2_Instance/Images/TREE.png)
+
+-Verify the 'tree' installation by runnning the following command:
+```
+DevOps tree
+```
+
+![TREE_VERIFY](/Create_EC2_Instance/Images/TREE_VERIFY.png)
+
 ### Updating Installed Packages
 
 - Update installed packaged by running the following command:
@@ -86,6 +97,8 @@ sudo apt install tree
 ```
 sudo apt upgrade
 ```
+
+![UPGRADE](/Create_EC2_Instance/Images/UPGRADE.png)
 
 ### Removing software packages
 
@@ -95,3 +108,4 @@ sudo apt upgrade
 sudo apt remove tree
 ```
 
+![REMOVE](/Create_EC2_Instance/Images/REMOVE.png)
