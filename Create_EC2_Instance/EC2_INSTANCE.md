@@ -7,6 +7,7 @@
 ### Step 2: Create the EC2 instance (Ubuntu Server)
 
 - On the top left of your console, select services and search for Elastic Compute Cloud (EC2)
+![EC2 DASHBOARD](/Create_EC2_Instance/Images/EC2_DASHBOARD)
 
 - From the menu on the left side, select instances.
 
