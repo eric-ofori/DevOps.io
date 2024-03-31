@@ -92,7 +92,7 @@ tree DevOps/
 
 ### Updating Installed Packages
 
-- Update installed packaged by running the following command:
+- Update installed packages by running the following command:
 
 ```
 sudo apt upgrade
