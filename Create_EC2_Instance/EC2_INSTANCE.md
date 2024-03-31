@@ -30,17 +30,34 @@
 
 - Open up the terminal (in this case we are using Git)
 
+![GIT](/Create_EC2_Instance/Images/GIT.png)
+
 - Navigate to the directory in which the key-pair you created was stored
+
+![KEY_PAIR](/Create_EC2_Instance/Images/KEY_PAIR.png)
 
 - Run `chmod 400 "key-pair"` in your terminal
 
+![CHMOD](/Create_EC2_Instance/Images/CHMOD.png)
+
 - Go to your launched instance and click it to open so you can see its summary.
+
+![INSTANCE_SUMMARY](/Create_EC2_Instance/Images/INSTANCE_SUMMARY.png)
 
 - Select Connect and select client tab.
 
+![SSH_CLIENT](/Create_EC2_Instance/Images/SSH_CLIENT.png)
+
 - Copy the ssh command given under the example and paste in your terminal and press enter
+```
+ssh -i "key-pair" ubuntu@instance_id
+```
+
+![SSH_COMMAND](/Create_EC2_Instance/Images/SSH_COMMAND.png)
 
 - You should be prompted to give a Yes/No response. Type in Yes and you should be inside your Linux server.
+
+![INSTANCE_LOGIN](/Create_EC2_Instance/Images/INSTANCE_LOGIN.png)
 
 ## Installing, Updating and Removing Software
 
