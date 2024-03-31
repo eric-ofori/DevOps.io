@@ -24,7 +24,7 @@
 
 - Navigate the the directory in which the key-pair you created was stored
 
-- Run ```chmod 400 "key-pair"```
+- Run `chmod 400 "key-pair"`
 
 - Go to your launched instance and click it to open so you can see its summary.
 
@@ -40,7 +40,8 @@
 
 - Update Package lists by running the following command:
 
-```sudo apt update
+```
+sudo apt update
 ```
 
 # Installing software packages
@@ -49,20 +50,23 @@
 
 - We will do so by running the following command:
 
-```sudo apt install tree
+```
+sudo apt install tree
 ```
 
 # Updating Installed Packages
 
 - Update installed packaged by running the following command:
 
-```sudo apt upgrade
+```
+sudo apt upgrade
 ```
 
 # Removing software packages
 
 - To remove the 'tree' package install earlier, run this command:
 
-```sudo apt remove tree
+```
+sudo apt remove tree
 ```
 
