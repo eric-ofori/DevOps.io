@@ -12,7 +12,7 @@
 
 - Select launch instance on the top right side
 
-- Fill the required portions indicating the linux distribution you want to use (in our case Ubuntu 20.04), memory size, the instance name, Security group and key-pair (do not forget to download and store this is a safe place).
+- Fill the required portions indicating the linux distribution you want to use (in our case Ubuntu 20.04), memory size, the instance name, Security group and key-pair (**do not forget to download and store this is a safe place**).
 
 - Review your chosen options for the instance and finish by launching the instance.
 
