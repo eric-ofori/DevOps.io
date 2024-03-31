@@ -83,7 +83,7 @@ sudo apt install tree
 
 ![TREE](/Create_EC2_Instance/Images/TREE.png)
 
--Verify the 'tree' installation by runnning the following command:
+- Verify the 'tree' installation by runnning the following command:
 ```
 DevOps tree
 ```
