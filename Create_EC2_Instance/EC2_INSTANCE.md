@@ -18,13 +18,13 @@
 
 ### Connecting to your launched EC2 instance (Ubuntu server)##
 
-*There are a number of ways to connect to your server but we are going to use the SSH (Secure Shell) Method.*
+**There are a number of ways to connect to your server but we are going to use the SSH (Secure Shell) Method.**
 
 - Open up the terminal (in this case we are using Git)
 
-- Navigate the the directory in which the key-pair you created was stored
+- Navigate to the directory in which the key-pair you created was stored
 
-- Run `chmod 400 "key-pair"`
+- Run `chmod 400 "key-pair"` in your terminal
 
 - Go to your launched instance and click it to open so you can see its summary.
 
@@ -34,9 +34,9 @@
 
 - You should be prompted to give a Yes/No response. Type in Yes and you should be inside your Linux server.
 
-# Installing, Updating and Removing Software
+## Installing, Updating and Removing Software
 
-# Updating Package Lists
+### Updating Package Lists
 
 - Update Package lists by running the following command:
 
@@ -44,7 +44,7 @@
 sudo apt update
 ```
 
-# Installing software packages
+### Installing software packages
 
 - Let us try and install a command called 'tree'
 
@@ -54,7 +54,7 @@ sudo apt update
 sudo apt install tree
 ```
 
-# Updating Installed Packages
+### Updating Installed Packages
 
 - Update installed packaged by running the following command:
 
@@ -62,7 +62,7 @@ sudo apt install tree
 sudo apt upgrade
 ```
 
-# Removing software packages
+### Removing software packages
 
 - To remove the 'tree' package install earlier, run this command:
 
