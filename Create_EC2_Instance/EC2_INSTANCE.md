@@ -18,7 +18,11 @@
 
 - Fill the required portions indicating the linux distribution you want to use (in our case Ubuntu 20.04), memory size, the instance name, Security group and key-pair (**do not forget to download and store this is a safe place**).
 
+![EC2_DETAILS](/Create_EC2_Instance/Images/EC2_DETAILS.png)
+
 - Review your chosen options for the instance and finish by launching the instance.
+
+![EC2_SUCCESS](/Create_EC2_Instance/Images/EC2_SUCCESS.png)
 
 ### Connecting to your launched EC2 instance (Ubuntu server)##
 
