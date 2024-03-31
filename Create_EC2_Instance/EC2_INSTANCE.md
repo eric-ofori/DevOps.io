@@ -1,10 +1,10 @@
-## Steps to take to create an Ubuntu Amazon EC2 instance ##
+# Steps to take to create an Ubuntu Amazon EC2 instance
 
-### Step 1: Sign into your AWS account ###
+### Step 1: Sign into your AWS account
 
 - Sign in to your created AWS account
 
-### Step 2: Create the EC2 instance (Ubuntu Server) ###
+### Step 2: Create the EC2 instance (Ubuntu Server)
 
 - On the top left of your console, select services and search for Elastic Compute Cloud (EC2)
 
@@ -16,9 +16,9 @@
 
 - Review your chosen options for the instance and finish by launching the instance.
 
-# Connecting to your launched EC2 instance (Ubuntu server)
+### Connecting to your launched EC2 instance (Ubuntu server)##
 
-# There are a number of ways to connect to your server but we are going to use the SSH (Secure Shell) Method.
+*There are a number of ways to connect to your server but we are going to use the SSH (Secure Shell) Method.*
 
 - Open up the terminal (in this case we are using Git)
 
