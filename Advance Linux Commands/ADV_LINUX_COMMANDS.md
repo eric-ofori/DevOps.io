@@ -116,7 +116,7 @@ id johndoe
 ```
 
 
-### Ensuring Proer Group Permissions
+### Ensuring Proper Group Permissions
 
 ```
 sudo chown :developers /path/to/directory
