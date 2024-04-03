@@ -101,7 +101,7 @@ sudo passwd johndoe
 - Test Login with new user
 
 ```
-
+su johndoe
 ```
 
 ![5_Test_Login_New_User](/Advanced_Linux_Commands/Images/5_Test_Login_New_User.png)
