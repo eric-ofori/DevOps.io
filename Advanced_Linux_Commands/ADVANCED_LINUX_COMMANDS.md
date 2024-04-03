@@ -180,17 +180,17 @@ sudo adduser ravi
 sudo adduser tunji
 ```
 
-![11_Tunji](/Advanced_Linux_Commands/11_Tunji.png)
+![11_Tunji](/Advanced_Linux_Commands/Images/11_Tunji.png)
 
 ```
 sudo adduser sofia
 ```
 
-![12_Sofia](/Advanced_Linux_Commands/12_Sofia.png)
+![12_Sofia](/Advanced_Linux_Commands/Images/12_Sofia.png)
 
 -Create 'home' foler for each user
 
-![13_Home_folders_Users](/Advanced_Linux_Commands/13_Home_folders_Users.png)
+![13_Home_folders_Users](/Advanced_Linux_Commands/Images/13_Home_folders_Users.png)
 
 - Ensure that each user belongs to the devops group
 
@@ -214,9 +214,9 @@ sudo usermod -aG devops tunji
 sudo usermod -aG devops sofia
 ```
 
-![14_Adding_Users_to_devops](/Advanced_Linux_Commands/14_Adding_Users_to_devops.png)
+![14_Adding_Users_to_devops](/Advanced_Linux_Commands/Images/14_Adding_Users_to_devops.png)
 
-![15_Users_Added_to_devops](/Advanced_Linux_Commands/15_Users_Added_to_devops.png)
+![15_Users_Added_to_devops](/Advanced_Linux_Commands/Images/15_Users_Added_to_devops.png)
 
 - Ensure that the group ownership of each created folder belongs to "devops"
 
@@ -240,6 +240,6 @@ sudo usermod :devops /home/tunji
 sudo usermod :devops /home/sofia
 ```
 
-![16_Group_Ownerhisp_HomeFolders](/Advanced_Linux_Commands/16_Group_Ownerhisp_HomeFolders.png)
+![16_Group_Ownerhisp_HomeFolders](/Advanced_Linux_Commands/Images/16_Group_Ownerhisp_HomeFolders.png)
 
-![17_Result_Group_Ownerhisp_HomeFolders](/Advanced_Linux_Commands/17_Result_Group_Ownerhisp_HomeFolders.png)
+![17_Result_Group_Ownerhisp_HomeFolders](/Advanced_Linux_Commands/Images/17_Result_Group_Ownerhisp_HomeFolders.png)
