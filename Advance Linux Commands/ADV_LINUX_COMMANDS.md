@@ -70,6 +70,8 @@ sudo -i
 sudo adduser johndoe
 ```
 
+![1_JohnDoe](/Advance Linux Commands/Images/1 JohnDoe)
+
 - Greanting Administrative Priviledges
 
 ```
