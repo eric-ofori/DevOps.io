@@ -115,7 +115,6 @@ id johndoe
 ```sudo userdel username
 ```
 
-
 ### Ensuring Proper Group Permissions
 
 ```
@@ -138,4 +137,66 @@ sudo groupadd devops
 
 - Create 5 users '["mary", "mohammed", "ravi", "tunji", "sofia"] and ensure each user belongs to the devops group
 
+```
+sudo adduser mary
+```
+
+```
+sudo adduser mohammed
+```
+
+```
+sudo adduser ravi
+```
+
+```
+sudo adduser tunji
+```
+
+```
+sudo adduser sofia
+```
+
+- Ensure that each user belongs to the devops group
+
+```
+sudo usermod -aG devops mary
+```
+
+```
+sudo usermod -aG devops mohammed
+```
+
+```
+sudo usermod -aG devops ravi
+```
+
+```
+sudo usermod -aG devops tunji
+```
+
+```
+sudo usermod -aG devops sofia
+```
+
+- Ensure that the group ownership of each created folder belongs to "devops"
+
+```
+sudo usermod :devops /home/mary
+```
+
+```
+sudo usermod :devops /home/mohammed
+```
+
+```
+sudo usermod :devops /home/ravi
+```
+
+```
+sudo usermod :devops /home/tunji
+```
+
+```
+sudo usermod :devops /home/sofia
 ```
