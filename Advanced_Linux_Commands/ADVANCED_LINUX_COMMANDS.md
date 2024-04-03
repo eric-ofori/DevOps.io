@@ -78,11 +78,15 @@ sudo adduser johndoe
 sudo usermod -aG sudo johndoe
 ```
 
+![2_JohnDoe_AdminPriviledges](/Advanced_Linux_Commands/Images/2_JohnDoe_AdminPriviledges.png)
+
 ### Switching User Accounts
 
 ```
 su johndoe
 ```
+
+![3_Switching_User_Accounts](/Advanced_Linux_Commands/Images/3_Switching_User_Accounts.png)
 
 ### Modifying User Accounts
 
@@ -91,6 +95,16 @@ su johndoe
 ```
 sudo passwd johndoe
 ```
+
+![4_Changing_User_Passwds](/Advanced_Linux_Commands/Images/4_Changing_User_Passwds.png)
+
+- Test Login with new user
+
+```
+
+```
+
+![5_Test_Login_New_User](/Advanced_Linux_Commands/Images/5_Test_Login_New_User.png)
 
 ### Creating a Group
 
@@ -137,27 +151,45 @@ sudo chmod g+rw /path/to/directory
 sudo groupadd devops
 ```
 
+![6_Creating_Group_devops](/Advanced_Linux_Commands/Images/6_Creating_Group_devops.png)
+
+![7_devops_group](/Advanced_Linux_Commands/Images/7_devops_group.png)
+
 - Create 5 users ("mary", "mohammed", "ravi", "tunji", "sofia") and ensure each user belongs to the devops group
 
 ```
 sudo adduser mary
 ```
 
+![8_Mary](/Advanced_Linux_Commands/Images/8_Mary.png)
+
 ```
 sudo adduser mohammed
 ```
+
+![9_Mohammed](/Advanced_Linux_Commands/Images/9_Mohammed.png)
 
 ```
 sudo adduser ravi
 ```
 
+![10_Ravi](/Advanced_Linux_Commands/Images/10_Ravi.png)
+
 ```
 sudo adduser tunji
 ```
 
+![11_Tunji](/Advanced_Linux_Commands/11_Tunji.png)
+
 ```
 sudo adduser sofia
 ```
+
+![12_Sofia](/Advanced_Linux_Commands/12_Sofia.png)
+
+-Create 'home' foler for each user
+
+![13_Home_folders_Users](/Advanced_Linux_Commands/13_Home_folders_Users.png)
 
 - Ensure that each user belongs to the devops group
 
@@ -181,6 +213,10 @@ sudo usermod -aG devops tunji
 sudo usermod -aG devops sofia
 ```
 
+![14_Adding_Users_to_devops](/Advanced_Linux_Commands/14_Adding_Users_to_devops.png)
+
+![15_Users_Added_to_devops](/Advanced_Linux_Commands/15_Users_Added_to_devops.png)
+
 - Ensure that the group ownership of each created folder belongs to "devops"
 
 ```
@@ -203,3 +239,6 @@ sudo usermod :devops /home/tunji
 sudo usermod :devops /home/sofia
 ```
 
+![16_Group_Ownerhisp_HomeFolders](/Advanced_Linux_Commands/16_Group_Ownerhisp_HomeFolders.png)
+
+![17_Result_Group_Ownerhisp_HomeFolders](/Advanced_Linux_Commands/17_Result_Group_Ownerhisp_HomeFolders.png)
