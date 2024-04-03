@@ -128,7 +128,8 @@ id johndoe
 
 ### Deleting a User
 
-```sudo userdel username
+```
+sudo userdel username
 ```
 
 ### Ensuring Proper Group Permissions
