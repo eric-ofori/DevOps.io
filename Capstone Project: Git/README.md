@@ -1,25 +1,25 @@
 # Capstone Project Enhancing a Community Library Website
 
-### Background Scenario ###
+### Background Scenario
 
 You're part of a development team tasked with enhancing the website for the **_"Greenwood Community Library"_**. The website aims to be more engaging and informative for its visitors. It currently includes basic sections: **_Home, About Us, Events and Contact Us_**. Your team decides to add a **_"Book Reviews"_** section and update the **_"Events"_** page to feature upcoming community events.
 
 You will simulate the roles of two contributors: **_"Morgan"_** and **_"Jamie"_**. Morgan will focus on adding the **_"Book Reviews"_** section, while Jamie will update the **_"Events"_** page with new community events.
 
-## Objectives ##
+### Objectives
 
 + Practice cloning a repository and working with branhces in Git.
 + Gain experience in staging, committing and pushing changes from both developers.
 + Create pull requests and merge them after resolving any potential conflicts.
 
-## Setup ##
+### Setup
 
 1. Create a Repository on GitHub:
 
 + Name it **_greenwood-library-website_**
 + Initialize it with a README.md file and clone it to your local machine
 
-## Tasks ##
+### Tasks
 
 1. In the main branch, using Visual Studio Code editor ensure there are files for each of the web pages
 
@@ -32,7 +32,7 @@ You will simulate the roles of two contributors: **_"Morgan"_** and **_"Jamie"_*
 
 3. Stage, commit and push the changes directly to the **_main_** branch (This is a simulation of the team's existing code base for the website).
 
-## Morgan's Work: Adding Book Reviews
+### Morgan's Work: Adding Book Reviews
 
 1. Create a Branch for Morgan:
 2. Switch to a new branch named **_add-book-reviews_**.
@@ -43,7 +43,7 @@ You will simulate the roles of two contributors: **_"Morgan"_** and **_"Jamie"_*
 7. Raise a PR for Morgan's work
 8. Merge Morgan's work to the main branch
 
-## Jamie's Work: Updating Events Page
+### Jamie's Work: Updating Events Page
 
 Repeat the same flow for Jamie's work on Events Page. Ensure Jamies work is in **_update-events_** branch.
 
