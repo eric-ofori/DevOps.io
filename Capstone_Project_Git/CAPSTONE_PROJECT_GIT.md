@@ -38,5 +38,17 @@ ls
 
 ![Adding_content_to_Contact_Us.html](/Capstone_Project_Git/Images/Adding_content_to_Contact_Us.html.png)
 
+3. Stage, commit and push the changes directly to the main branch by issuing the following commands:
+   **Staging**
+   Check the status of changes made by using this command:
+   ```
+   git status
+   ```
+   Then stage the changes to commit by using the following command:
+   ```
+   git add .
+   ```
+   ![Main_Staging](/Capstone_Project_Git/Images/Main_Staging.png)
 
-
+   **Committing changes**
+   
