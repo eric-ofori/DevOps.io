@@ -69,3 +69,13 @@ ls
    ![Main_Commit_Push](/Capstone_Project_Git/Images/Main_Commit_Push.png)
 
    
+### Morgan's Work: Adding Book Reviews
+
+### Steps to Adding Book Reviews
+
+1. Create a branch for Morgan by:
+
+   + Creating a new branching and Switching to it (There are two options to doing this; first is by creating the branch and then switching to it. Second is creating the new branch and switching to it at the same time. We will go with the first option for this task)
+   + Create new branch by issuing the following command:
+     ```
+     
