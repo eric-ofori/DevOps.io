@@ -222,18 +222,15 @@ ls
 
    ![Creating_Update_events_Switching_To_it](/Capstone_Project_Git/Images/Creating_Update_events_Switching_To_it.png)
 
-2. Add a new file book_reviews.html to represent the Book Reviews Section by issuing the following command:
+2. Add updated text content into the events.html file by using the following command:
    ```
-   touch book_reviews.html
+   vi events.html
    ```
 
-4. Add random text content into the file by using the following command:
-   ```
-   vi book_reviews.html
-   ```
-   + Add content as desired
-   
-   ![Content_Book_Reviews_Page](/Capstone_Project_Git/Images/Content_Book_Reviews_Page.png)
+   ![Updated_Events.html_1](/Capstone_Project_Git/Images/Updated_Events.html_1.png)
+
+   ![Updated_Events.html_2](/Capstone_Project_Git/Images/Updated_Events.html_2.png)
+
 
 5. Stage, Commit and Push Changes by issuing the following commands:
 
@@ -244,19 +241,19 @@ ls
      ```
      git add .
      ```
-     ![Book_Reviews_Staging](/Capstone_Project_Git/Images/Book_Reviews_Staging.png)
+     ![Update_events_Staging](/Capstone_Project_Git/Images/Update_events_Staging.png)
 
    + Committing changes:
      ```
-     git commit -m "Add book reviews section"
+     git commit -m "Update to events section"
      ```
-     ![Book_Reviews_Commit](/Capstone_Project_Git/Images/Book_Reviews_Commit.png)
+     ![Updated_events_Commit](/Capstone_Project_Git/Images/Updated_events_Commit.png)
 
    + Pushing changes:
      ```
-     git push origin add-book-reviews
+     git push origin update-events
      ```
-     ![Book_Reviews_Push](/Capstone_Project_Git/Images/Book_Reviews_Push.png)
+     ![Updated_events_Pushing](/Capstone_Project_Git/Images/Updated_events_Pushing.png)
      
 6. Raise a Pull Request (PR) for Morgan's work by doing the following:
 
