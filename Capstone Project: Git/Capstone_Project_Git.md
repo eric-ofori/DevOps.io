@@ -8,7 +8,8 @@
 + Name it greenwood-library-website
 + Initialie it with a README.md file and clone it to your local machine
 
-![Create_webpage_files](/Capstone Project:Git/Images/Create_webpage_files.png)
+![Create_webpage_files](/Capstone_Project:Git/Images/Create_webpage_files.png)
+
 
 
 ### Tasks: Steps
