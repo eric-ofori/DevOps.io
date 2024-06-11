@@ -21,5 +21,10 @@
 ```
 touch home.html about_us.html events.html contact_us.html
 ```
++ Check that files are created by using the following command:
+```
+ls
+```
 
 ![Create_webpage_files](/Capstone_Project_Git/Images/Create_webpage_files.png)
+
