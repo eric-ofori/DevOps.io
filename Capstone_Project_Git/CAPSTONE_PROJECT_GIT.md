@@ -100,3 +100,27 @@ ls
    + Add content as desired
    
    ![Content_Book_Reviews_Page](/Capstone_Project_Git/Images/Content_Book_Reviews_Page.png)
+
+4. Stage, Commit and Push Changes by issuing the following commands:
+
+   + Staging changes:
+     ```
+     git status
+     ```
+     ```
+     git add .
+     ```
+     ![Book_Reviews_Staging](/Capstone_Project_Git/Images/Book_Reviews_Staging.png)
+
+   + Committing changes:
+     ```
+     git commit -m "Add book reviews section"
+     ```
+     ![Book_Reviews_Commit](/Capstone_Project_Git/Images/Book_Reviews_Commit.png)
+
+   + Pushing changes:
+     ```
+     git push origin add-book-reviews
+     ```
+     ![Book_Reviews_Push](/Capstone_Project_Git/Images/Book_Reviews_Push.png)
+     
