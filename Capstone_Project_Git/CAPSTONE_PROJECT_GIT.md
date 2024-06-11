@@ -28,3 +28,6 @@ ls
 
 ![Create_webpage_files](/Capstone_Project_Git/Images/Create_webpage_files.png)
 
+2. Add random content into each of the files created
+
+![Adding_content_to_home.html](/Capstone_Project_Git/Images/Adding_content_to_home.html.png)
