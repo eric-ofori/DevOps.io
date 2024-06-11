@@ -41,11 +41,12 @@ ls
 3. Stage, commit and push the changes directly to the main branch by issuing the following commands:
 
    **Staging**
+
    Check the status of changes made by using this command:
    ```
    git status
    ```
-   Then stage the changes to commit by using the following command:
+   Then stage the changes to be committed by using the following command:
    ```
    git add .
    ```
