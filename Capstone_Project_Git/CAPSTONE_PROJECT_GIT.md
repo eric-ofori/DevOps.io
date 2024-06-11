@@ -199,9 +199,9 @@ ls
 6. Merge Jamie's work to the main branch by doing the following:
 
    + Confirming to merge the pulled content from Morgan's branch into the Main branch
-     ![Book_Reviews_Merge_1](/Capstone_Project_Git/Images/Book_Reviews_Merge_1.png)
+     ![Update_events_Merge_1](/Capstone_Project_Git/Images/Update_events_Merge_1.png)
 
-     ![Book_Reviews_Merge_2](/Capstone_Project_Git/Images/Book_Reviews_Merge_2.png)
+     ![Update_events_Merge_2](/Capstone_Project_Git/Images/Update_events_Merge_2.png)
 
-     ![Book_Reviews_Merge_3](/Capstone_Project_Git/Images/Book_Reviews_Merge_3.png)
+     ![Update_events_Merge_3](/Capstone_Project_Git/Images/Update_events_Merge_3.png)
      
