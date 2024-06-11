@@ -78,4 +78,14 @@ ls
    + Creating a new branch and Switching to it (There are two options to doing this; first is by creating the branch and then switching to it. Second is creating the new branch and switching to it at the same time. We will go with the first option for this task)
    + Create new branch by issuing the following command:
      ```
-     
+     git branch add-book-reviews
+     ```
+
+   + Switch to new created branch by issuing the following command:
+     ```
+     git switch add-book-reviews
+     ```
+
+   ![Book_Reviews_branch_Switching](/Capstone_Project_Git/Images/Book_Reviews_branch_Switching.png)
+
+   
