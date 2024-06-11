@@ -22,4 +22,4 @@
 touch home.html about_us.html events.html contact_us.html
 ```
 
-
+![Create_webpage_files](/Capstone_Project_Git/Images/Create_webpage_files.png)
