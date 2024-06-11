@@ -124,3 +124,15 @@ ls
      ```
      ![Book_Reviews_Push](/Capstone_Project_Git/Images/Book_Reviews_Push.png)
      
+5. Raise a Pull Request (PR) for Morgan's work by doing the following:
+
+   + Creating a pull request from the GitHub Repository
+     ![Book_Reviews_PR](/Capstone_Project_Git/Images/Book_Reviews_PR.png)
+
+6. Merge Morgan's work to the main branch by doing the following:
+
+   + Confirming to merge the pulled content from Morgan's branch into the Main branch
+     ![Book_Reviews_Merge_1](/Capstone_Project_Git/Images/Book_Reviews_Merge_1.png)
+
+     ![Book_Reviews_Merge_2](/Capstone_Project_Git/Images/Book_Reviews_Merge_2.png)
+
