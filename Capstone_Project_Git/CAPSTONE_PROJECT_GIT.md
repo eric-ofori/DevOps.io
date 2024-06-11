@@ -31,3 +31,12 @@ ls
 2. Add random content into each of the files created
 
 ![Adding_content_to_home.html](/Capstone_Project_Git/Images/Adding_content_to_home.html.png)
+
+![Adding_content_to_About_Us.html](/Capstone_Project_Git/Images/Adding_content_to_About_Us.html.png)
+
+![Adding_content_to_Events.html](/Capstone_Project_Git/Images/Adding_content_to_Events.html.png)
+
+![Adding_content_to_Contact_Us.html](/Capstone_Project_Git/Images/Adding_content_to_Contact_Us.html.png)
+
+
+
