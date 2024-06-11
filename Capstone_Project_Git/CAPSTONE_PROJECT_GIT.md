@@ -88,4 +88,15 @@ ls
 
    ![Book_Reviews_branch_Switching](/Capstone_Project_Git/Images/Book_Reviews_branch_Switching.png)
 
+2. Add a new file book_reviews.html to represent the Book Reviews Section by issuing the following command:
+   ```
+   touch book_reviews.html
+   ```
+
+3. Add random text content into the file by using the following command:
+   ```
+   vi book_reviews.html
+   ```
+   + Add content as desired
    
+   ![Content_Book_Reviews_Page](/Capstone_Project_Git/Images/Content_Book_Reviews_Page.png)
