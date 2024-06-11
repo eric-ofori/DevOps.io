@@ -53,6 +53,7 @@ ls
    ![Main_Staging](/Capstone_Project_Git/Images/Main_Staging.png)
 
    **Committing changes**
+
    Commit changes made by issuing the following command:
    ```
    git commit -m "Base Content for Website"
@@ -60,6 +61,7 @@ ls
    ![Main_Commit_Push](/Capstone_Project_Git/Images/Main_Commit_Push.png)
 
    **Pushing committed changes**
+
    Push committed changes to Main branch by issuing this command:
    ```
    git push origin main
