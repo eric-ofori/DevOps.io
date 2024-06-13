@@ -130,7 +130,7 @@ ls
 5. Raise a Pull Request (PR) for Morgan's work by doing the following:
 
    + Creating a pull request from the GitHub Repository
-   + The pull request will be compared and reviewed
+   + The pull request will be compared and code reviewed for any conflicts. If there are confilcts they need to be resolved before the request will be confirmed
      ![Book_Reviews_PR](/Capstone_Project_Git/Images/Book_Reviews_PR.png)
 
 6. Merge Morgan's work to the main branch by doing the following:
@@ -196,7 +196,7 @@ ls
 5. Raise a Pull Request (PR) for Jamie's work by doing the following:
 
    + Creating a pull request from the GitHub Repository
-   + The pull request will be compared and reviewed
+   + The pull request will be compared and code reviewed for any conflicts. If there are confilcts they need to be resolved before the request will be confirmed
      ![Update_events_PR_1](/Capstone_Project_Git/Images/Update_events_PR_1.png)
 
      ![Update_events_PR_2](/Capstone_Project_Git/Images/Update_events_PR_2.png)
