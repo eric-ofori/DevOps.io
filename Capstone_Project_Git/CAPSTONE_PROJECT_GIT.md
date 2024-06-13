@@ -9,6 +9,8 @@
 + Make sure to make the repository public
 + Initialize it with a README.md file and clone it to your local machine
 
+![Repo_README.md](/Capstone_Project_Git/Images/Repo_README.md.png)
+
 ![GitHub_Repo_Clone_1](/Capstone_Project_Git/Images/GitHub_Repo_Clone_1.png)
 
 ![GitHub_Repo_Clone_2](/Capstone_Project_Git/Images/GitHub_Repo_Clone_2.png)
@@ -128,11 +130,12 @@ ls
 5. Raise a Pull Request (PR) for Morgan's work by doing the following:
 
    + Creating a pull request from the GitHub Repository
+   + The pull request will be compared and reviewed
      ![Book_Reviews_PR](/Capstone_Project_Git/Images/Book_Reviews_PR.png)
 
 6. Merge Morgan's work to the main branch by doing the following:
 
-   + Confirming to merge the pulled content from Morgan's branch into the Main branch
+   + Confirming to merge the pulled content from Morgan's branch into the Main branch if there are no conflicts
      ![Book_Reviews_Merge_1](/Capstone_Project_Git/Images/Book_Reviews_Merge_1.png)
 
      ![Book_Reviews_Merge_2](/Capstone_Project_Git/Images/Book_Reviews_Merge_2.png)
@@ -193,13 +196,14 @@ ls
 5. Raise a Pull Request (PR) for Jamie's work by doing the following:
 
    + Creating a pull request from the GitHub Repository
+   + The pull request will be compared and reviewed
      ![Update_events_PR_1](/Capstone_Project_Git/Images/Update_events_PR_1.png)
 
      ![Update_events_PR_2](/Capstone_Project_Git/Images/Update_events_PR_2.png)
 
 6. Merge Jamie's work to the main branch by doing the following:
 
-   + Confirming to merge the pulled content from Morgan's branch into the Main branch
+   + Confirming to merge the pulled content from Morgan's branch into the Main branch if there are no conflicts
      ![Update_events_Merge_1](/Capstone_Project_Git/Images/Update_events_Merge_1.png)
 
      ![Update_events_Merge_2](/Capstone_Project_Git/Images/Update_events_Merge_2.png)
