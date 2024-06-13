@@ -6,6 +6,7 @@
 
 1. Create a Repository on GitHub:
 + Name it greenwood-library-website
++ Make sure to make the repository public
 + Initialize it with a README.md file and clone it to your local machine
 
 ![GitHub_Repo_Clone_1](/Capstone_Project_Git/Images/GitHub_Repo_Clone_1.png)
